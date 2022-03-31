@@ -9,11 +9,20 @@ package nuevo.proyecto;
  * @author Rosita
  */
 public class NuevoProyecto {
+    
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        String nombre;
+        
+        double edad;
+        double telefono;
+                
+                
+                
         // TODO code application logic here
     }
     
